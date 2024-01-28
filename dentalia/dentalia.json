@@ -1,0 +1,474 @@
+[
+  {
+    "name": "Encuentro Oceanía",
+    "address": "Av. del Peñón 355, Moctezuma 2da Secc, Venustiano Carranza, 15530 Ciudad de México, CDMX",
+    "location": "https://www.google.com.mx/maps/place/dentalia+Encuentro+Oceania/@19.4391319,-99.1032383,15z/data=!4m15!1m8!3m7!1s0x85d1fcbfbeb136d9:0xb5ea259848fbedb8!2sdentalia+Encuentro+Oceania!8m2!3d19.4391319!4d-99.0944836!10e5!16s%2Fg%2F1tqg0p8q!3m5!1s0x85d1fcbfbeb136d9:0xb5ea259848fbedb8!8m2!3d19.4391319!4d-99.0944836!16s%2Fg%2F1tqg0p8q?entry=ttu",
+    "phone": [
+      "(55) 5766-9999",
+      "(55) 1164-9418"
+    ],
+    "working_hours": [
+      "Jue a Mar 11am a 8pm",
+      "Mie 11am a  5pm"
+    ]
+  },
+  {
+    "name": "Galerías Monterrey",
+    "address": " Av Insurgentes 2500-Local 737, Vista Hermosa, 64630 Monterrey, N.L.",
+    "location": "https://www.google.com/maps/place/Dentalia+Galer%C3%ADas+Monterrey/@25.681503,-100.3574951,17z/data=!3m2!4b1!5s0x866296067dcb2d5f:0x73e875c380ab7b7e!4m6!3m5!1s0x8662bfa72beeb1f7:0xd02d7b18f9cdee2a!8m2!3d25.681503!4d-100.3549148!16s%2Fg%2F11c51rw04m",
+    "phone": [
+      "(81) 81 23 36 29",
+      "(81) 81 23 93 34"
+    ],
+    "working_hours": [
+      "L a V 9am a 8pm",
+      "S y D 10am a  7pm"
+    ]
+  },
+  {
+    "name": "Península Tijuana",
+    "address": "Vía Rápida Ote. 15000 Chapultepec Alamar, 22150 Tijuana, B.C. Nivel 1 - L-4",
+    "location": "https://www.google.com/maps/dir//dentalia+peninsula+tijuana/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x80d94722ab94525f:0x6ccf379f7b8ef8d8?sa=X&ved=2ahUKEwi85fesis3-AhXljLAFHY67A3EQ9Rd6BAhZEAU",
+    "phone": [
+      "(664) 423 0960",
+      "(664) 423 0961"
+    ],
+    "working_hours": [
+      "L a V 9am a 8pm",
+      "S y D 9am a  6pm"
+    ]
+  },
+  {
+    "name": "Galerías Atizapán",
+    "address": "Avenida Ruiz Cortines número 255,  Mz 2, Lt I, Manzana II, Fraccionamiento Lomas de Atizapán, CP 52977, Atizapán de Zaragoza, Estado de México.",
+    "location": "https://www.google.com/maps/dir//Galer%C3%ADas+Atizap%C3%A1n+dentalia/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x85d21d59c10b2fed:0x60c6227cdf8d5206?sa=X&ved=2ahUKEwiKrKXYj83-AhWIRTABHar6ASQQ9Rd6BAhYEAU",
+    "phone": [
+      "(55) 41 23 75 18",
+      "(55) 41 23 75 19",
+      ""
+    ],
+    "working_hours": [
+      "Lunes a Viernes 9:00 a 20:00",
+      "Sábado y Domingo 9:00 a  18:00"
+    ]
+  },
+  {
+    "name": "Acoxpa",
+    "address": "Calz. Acoxpa 430, Ex-Hacienda Coapa, 14300, CDMX. ",
+    "location": "https://www.google.com/maps/dir//Calz+Acoxpa+430,+Coapa,+Ex-Hacienda+Coapa,+Tlalpan,+14300+Ciudad+de+M%C3%A9xico,+CDMX,+M%C3%A9xico/@19.298953,-99.2069353,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x85ce01a8cb1e3845:0x859abb73ddf43cde!2m2!1d-99.1368948!2d19.2989664",
+    "phone": [
+      "(55) 5677-2198",
+      "(55) 5678-0750",
+      ""
+    ],
+    "working_hours": [
+      "Lun - Vie: 10:00 a 20:00",
+      "Sábado & Domingo: 11:00 a 19:0"
+    ]
+  },
+  {
+    "name": "Santa Fe",
+    "address": " Vasco de Quiroga 3800, Lomas de Santa Fe, Contadero, Cuajimalpa de Morelos, 05348 Ciudad de México, CDMX Local 569, Segundo Nivel",
+    "location": "https://www.google.com/maps?opi=89978449&rlst=f&rlz=1C5CHFA_enPA918PA918&lqi=ChFzYW50YSBmZSBkZW50YWxpYUj52qPYkLmAgAhaHxAAEAEQAhgAGAEYAiIRc2FudGEgZmUgZGVudGFsaWGSAQ1kZW50YWxfY2xpbmljqgFREAEqFSIRc2FudGEgZmUgZGVudGFsaWEoDjIfEAEiG4y2nifVwQ2pEoDs_DRlXuRG8k9bLhA_xLqpDDIVEAIiEXNhbnRhIGZlIGRlbnRhbGlh&vet=12ahUKEwi-__i_kM3-AhUtTDABHRjYDJoQ8UF6BAgDEFY..i&lei=GAZMZL6TCq2YwbkPmLCz0Ak&cs=0&um=1&ie=UTF-8&fb=1&gl=pa&sa=X&geocode=KbfqVF4MAdKFMbRqzQeTtFRP&daddr=Vasco+de+Quiroga+3800,+Lomas+de+Santa+Fe,+Contadero,+Cuajimalpa+de+Morelos,+05348+Ciudad+de+M%C3%A9xico,+CDMX,+M%C3%A9xico",
+    "phone": [
+      "(55) 4737 8430",
+      "(55) 4737 8431"
+    ],
+    "working_hours": [
+      "Lun - Dom: 11:00 a 20:00"
+    ]
+  },
+  {
+    "name": "Las Misiones",
+    "address": "Boulevard Teófilo Borunda 8681, Col. Partido Iglesias, CP. 32663, Ciudad Juárez, Chihuahua, México.",
+    "location": "https://www.google.com/maps/dir//las+misiones+dentalia/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x86e75d6f71d82a81:0x2c1ae9fd24daa4f5?sa=X&ved=2ahUKEwirhJ7LkM3-AhV5jLAFHWFvDqkQ9Rd6BAhEEAU",
+    "phone": [
+      "(656) 478-7700",
+      "(656) 478-7701"
+    ],
+    "working_hours": [
+      "Lun - Dom: 11:00 a 20:00"
+    ]
+  },
+  {
+    "name": "Altabrisa",
+    "address": "Calle 7 451, Fraccionamiento Altabrisa, 97133 Mérida, Yuc.",
+    "location": "https://www.google.com/maps/dir//altabrisa+dentalia/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8f5677210e1deb73:0x555fe1681da880ad?sa=X&ved=2ahUKEwjb28jmkM3-AhULSDABHb-MBUkQ9Rd6BAhZEAU",
+    "phone": [
+      "(99) 9211-0274",
+      "(99) 9167-9475"
+    ],
+    "working_hours": [
+      "Lun - Vie: 9:00 a 21:00",
+      "Sábado: 10:00 a 20:00",
+      "Domingo: 10:00 a 20:0"
+    ]
+  },
+  {
+    "name": "Playa del Carmen",
+    "address": "Calle Quinta Avenida 156, Gonzalo Guerrero, 77710 Playa del Carmen, Q.R.",
+    "location": "https://www.google.com/maps/dir//playa+del+carmen+dentalia/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8f4e432c1dde35a5:0xd64d38d4e1360704?sa=X&ved=2ahUKEwj6z6P0kM3-AhXDRzABHRQaB38Q9Rd6BAhlEAU",
+    "phone": [
+      "(98) 4803-0461",
+      "(98) 4803-2962"
+    ],
+    "working_hours": [
+      "Lun - Vie: 9:00 a 20:00",
+      "Sábado: 11:00 a 20:00",
+      "Domingo: 9:00 a 18:0"
+    ]
+  },
+  {
+    "name": "Urban Center Cancún",
+    "address": "Av. Nichupté S/N entre Acanceh y Tulum, Supermanzana 15-A Manzana 4, Lote 1, 77500 Cancún, Q.R",
+    "location": "https://www.google.com/maps/dir//urban+center+cancun+dentalia/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8f4c2bcb21352651:0xd689499eb2983077?sa=X&ved=2ahUKEwi277SGkc3-AhVIRDABHdqlBz0Q9Rd6BAhAEAU",
+    "phone": [
+      "(99) 8882 1395",
+      "(99) 8882 1393"
+    ],
+    "working_hours": [
+      "Lun - Vie: 9:00 a 20:00",
+      "Sábado: 11:00 a 20:00",
+      "Domingo: 9:00 a 18:0"
+    ]
+  },
+  {
+    "name": "Real Center",
+    "address": "Av. Santa Margarita 3600, Fraccionamiento Residencial Poniente, Local 10 Y 11, 45136, Zapopan - Jalisco",
+    "location": "https://www.google.com/maps/dir/9.0066526,-79.5266204/real+center+dentalia/@13.696812,-109.846633,4z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x8428af41cde1819b:0xdfb002bcc451ee8c!2m2!1d-103.4290443!2d20.7326409",
+    "phone": [
+      "(33) 1371 5223",
+      "(33) 1371 5047"
+    ],
+    "working_hours": [
+      "Lun - Vie: 9:00 a 21:00",
+      "Sábado: 9:00 a 19:00",
+      "Domingo: 9:00 a 19:0"
+    ]
+  },
+  {
+    "name": "Midtown Jalisco",
+    "address": "Avenida Adolfo López Mateos Norte No. 2405, Local L-77, Col. Italia Providencia Zona 2 Minerva, C.P. 44648, Guadalajara, Jalisco",
+    "location": "https://www.google.com/maps/dir//midtown+jalisco+dentalia/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8428ae36c9266105:0xfc85c9b5a7e789c?sa=X&ved=2ahUKEwj19aiokc3-AhV1ezABHZpOAHMQ9Rd6BAhWEAU",
+    "phone": [
+      "(333) 817-1929",
+      "(333) 817-1657"
+    ],
+    "working_hours": [
+      "Lun - Vie: 9:00 a 21:00",
+      "Sábado: 10:00 a 20:00",
+      "Domingo: 10:00 a 20:0"
+    ]
+  },
+  {
+    "name": "Gran Plaza",
+    "address": "Av. Vallarta 3959 Local G-2, Don Bosco, 44540 Guadalajara, Jalisco.",
+    "location": "https://goo.gl/maps/Mi8SuLzt61CQwSsW8",
+    "phone": [
+      "(33) 3621-1851",
+      "(33) 3621-1852"
+    ],
+    "working_hours": [
+      "Lun - Vie: 9:00 a 21:00",
+      "Sábado: 10:00 a 20:00",
+      "Domingo: 10:00 a 19:0"
+    ]
+  },
+  {
+    "name": "Galerías Guadalajara",
+    "address": "Avenida Rafael Sanzio #150, Local U-5, Col. La Estancia, Municipio de Zapopan, C.P. 45030, Estado de Jalisco",
+    "location": "https://www.google.com/maps/dir//galerias+guadalajara+dentalia/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8428b1f1196e5d95:0xba200a799457eee8?sa=X&ved=2ahUKEwjto97ukc3-AhUaQjABHQXgBZIQ9Rd6BAhfEAU",
+    "phone": [
+      "(33) 3632-1745",
+      "(33) 3631-2172"
+    ],
+    "working_hours": [
+      "Lun - Vie: 9:00 a 21:00",
+      "Sábado: 10:00 a 20:00",
+      "Domingo: 10:00 a 20:0"
+    ]
+  },
+  {
+    "name": "Andares",
+    "address": "Blvd. Puerta de Hierro 4965, Puerta de Hierro, 45116, Zapopan, Jalisco.",
+    "location": "https://www.google.com/maps/dir//andares+dentalia/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8428af03cca4a731:0xcca37716281d4a49?sa=X&ved=2ahUKEwj6mdz9kc3-AhVUr4QIHWoCDP8Q9Rd6BAhUEAU",
+    "phone": [
+      "(33) 36 11 17 25",
+      "(33) 36 11 20 45"
+    ],
+    "working_hours": [
+      "Lun - Vie: 9:00 a 9:00",
+      "Sábado: 10:00 a 20:00",
+      "Domingo: 10:00 a 19:0"
+    ]
+  },
+  {
+    "name": "Chihuahua",
+    "address": "Av. Periférico de la Juventud 3501, Local U-59 y U-60 Fracc. Plaza del Sol, 31236, Chihuahua.",
+    "location": "https://www.google.com/maps/dir//dentalia+chihuahua/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x86ea5d298741d7c7:0xbf624f1a1f6d21e4?sa=X&ved=2ahUKEwjf2smKks3-AhUISDABHUofDe4Q9Rd6BAhOEAQ",
+    "phone": [
+      "(614) 430-3127",
+      "(614) 430-1487"
+    ],
+    "working_hours": [
+      "Lun - Vie: 10:00 a 19:00",
+      "Sábado: 9:00 a 18:00",
+      "Domingo: 9:00 a 18:0"
+    ]
+  },
+  {
+    "name": "Paseo Chapultepec",
+    "address": "Blvd. Agua Caliente 10387, Neidhart, 22020 Tijuana, B.C. BC",
+    "location": "https://www.google.com/maps?opi=89978449&rlz=1C5CHFA_enPA918PA918&vet=12ahUKEwjqs--pks3-AhVASzABHSanAWIQ8UF6BAgDEFY..i&lei=AghMZOqqLcCWwbkPps6GkAY&cs=0&um=1&ie=UTF-8&fb=1&gl=pa&sa=X&geocode=KZmES4I-SNmAMTVL1rc-hku8&daddr=Blvd.+Agua+Caliente+10387-Local+c2,+Neidhart,+22024+Tijuana,+B.C.,+M%C3%A9xico",
+    "phone": [
+      "(664) 681-8528",
+      "(664) 681-8911"
+    ],
+    "working_hours": [
+      "Lun - Vie: 9:00 a 20:00",
+      "Sábado: 9:00 a 18:00",
+      "Domingo: 9:00 a 18:0"
+    ]
+  },
+  {
+    "name": "City Center Pitic",
+    "address": "Boulevard José María Morelos y Pavón 355, Bachoco, 83148, Sonora.",
+    "location": "https://www.google.com/maps/dir/9.0066526,-79.5266204/City+Center+Pitic+dentalia/@18.7736821,-113.6362985,4z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x86ce8662988f81cb:0x8af1e06ac49a2594!2m2!1d-110.9487038!2d29.1213332",
+    "phone": [
+      "(662) 211-1347",
+      "(662) 211-1402"
+    ],
+    "working_hours": [
+      "Lun - Vie: 11:00 a 20:00",
+      "Sábado: 11:00 a 20:00",
+      "Domingo: 11:00 a 20:0"
+    ]
+  },
+  {
+    "name": "Galerías Hermosillo",
+    "address": "Blvd. Cultura 55 Oriente, Local C-19 y C-20, Proyecto Rio Sonora, 83280, Hermosillo, Sonora.",
+    "location": "https://www.google.com/maps/dir//Galer%C3%ADas+Hermosillo+dentalia/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x86ce845545423f4b:0xc9af148908a11c18?sa=X&ved=2ahUKEwikkcrMks3-AhWitoQIHYegCs4Q9Rd6BAhMEAU",
+    "phone": [
+      "(662) 212-1961",
+      "(662) 212-0869"
+    ],
+    "working_hours": [
+      "Lun - Vie: 9:00 a 20:00",
+      "Sábado: 10:00 a 19:00",
+      "Domingo: 10:00 a 19:0"
+    ]
+  },
+  {
+    "name": "Galerías Saltillo",
+    "address": "Blvd. Nazario Ortiz Garza No. 2345 L-142 Col. Tanque de Peña, C.P. 25279  Saltillo, Coahuila",
+    "location": "https://www.google.com/maps/dir//Galer%C3%ADas+Saltillo+dentalia/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x868812b4efe3d329:0xee74930c93f0c2cf?sa=X&ved=2ahUKEwiYjcvWks3-AhXTSjABHXKwAAIQ9Rd6BAhQEAU",
+    "phone": [
+      "(844) 485-1749",
+      "(844) 485-1820"
+    ],
+    "working_hours": [
+      "Lun - Dom: 11:00 a 20:00"
+    ]
+  },
+  {
+    "name": "Galerías Laguna",
+    "address": "Av. Periférico Raúl López Sánchez, 6000 L-275, El Fresno, 27018  Torreón, Coahuila",
+    "location": "https://www.google.com/maps/dir//Galer%C3%ADas+Laguna+dentalia/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x868fdaf58709c9ef:0x52dd126a31d7cdae?sa=X&ved=2ahUKEwi71dDiks3-AhWTr4QIHTUPAUkQ9Rd6BAhVEAU",
+    "phone": [
+      "(871) 750-8099",
+      "(871) 750-8213"
+    ],
+    "working_hours": [
+      "Lun - Dom: 11:00 a 20:00"
+    ]
+  },
+  {
+    "name": "Galerías Valle Oriente",
+    "address": "Av. Lázaro Cárdenas No. 1000 Local 1158 Col. Valle del Mirador C.P. 64750 San Pedro, Nuevo León.",
+    "location": "https://www.google.com/maps/dir//Galer%C3%ADas+Valle+Oriente+edntalia/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8662be50365c2e31:0xcdafba6c6bd993a3?sa=X&ved=2ahUKEwj2jfL5ks3-AhX2RzABHbAOAcUQ9Rd6BAhCEAU",
+    "phone": [
+      "(81) 8486-0015",
+      "(81) 8486-0016"
+    ],
+    "working_hours": [
+      "Lun - Vie: 9:00 a 20:00",
+      "Sábado: 9:00 a 19:00",
+      "Domingo: 10:00 a 18:0"
+    ]
+  },
+  {
+    "name": "Multiplaza",
+    "address": "Av. Miguel Alemán 5054, Local 144, Col, Linda Vista, Guadalupe N.L., 67130",
+    "location": "https://www.google.com/maps/dir//Multiplaza+dentalia+nuevo+leon/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8662eb3a29ef9831:0xc74f94bb2b41863a?sa=X&ved=2ahUKEwjH9rGSk83-AhUNQzABHQixDWwQ9Rd6BAhVEAU",
+    "phone": [
+      "(81) 8850-4121",
+      "(81) 8850-4122"
+    ],
+    "working_hours": [
+      "Lun - Vie: 9:00 a 20:00",
+      "Sábado: 10:00 a 19:00",
+      "Domingo: 10:00 a 19:0"
+    ]
+  },
+  {
+    "name": "Fiesta San Agustín",
+    "address": "Av. Real San Agustin 222, LOCAL 22 -28, Zona San Agustín, 66260 San Pedro Garza García, N.L.",
+    "location": "https://www.google.com/maps/dir/9.0066526,-79.5266204/Fiesta+San+Agust%C3%ADn+dentalia/@16.6643853,-98.9662318,5z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x8662be72a21991e1:0xbc49c4b82fd35445!2m2!1d-100.3359054!2d25.6495222",
+    "phone": [
+      "(818) 363-1481",
+      "(818) 363-5157"
+    ],
+    "working_hours": [
+      "Lun - Vie: 9:00 a 20:00",
+      "Sábado: 9:00 a 19:00",
+      "Domingo: 10:00 a 18:0"
+    ]
+  },
+  {
+    "name": "Citadel",
+    "address": "Av. Rómulo Garza 410, Local B-11, La Fe, 66477, San Nicolás de los Garza, N. L.",
+    "location": "https://www.google.com/maps/dir//Citadel+dentalia+la+fe+san+nicolas/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x8662ea5581011ef9:0xe16545447df98ba4?sa=X&ved=2ahUKEwjRiuDRk83-AhX3g4QIHa2QDXAQ9Rd6BAhgEAU",
+    "phone": [
+      "(818) 240-9650",
+      "(818) 240-9651"
+    ],
+    "working_hours": [
+      "Lun - Vie: 9:00 a 20:00",
+      "Sábado: 10:00 a 19:00",
+      "Domingo: 10:00 a 19:0"
+    ]
+  },
+  {
+    "name": "Fiesta Anáhuac",
+    "address": "Nte., Av. Manuel L. Barragán 325, Local 2000 y 2001, Anáhuac, 66450, San Nicolás de los Garza, N.L.",
+    "location": "https://www.google.com/maps/dir/9.0066526,-79.5266204/Fiesta+An%C3%A1huac+dentalia/@16.7092235,-98.9561787,5z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x8662945dafd96291:0x39d046e31de74124!2m2!1d-100.3138879!2d25.7424367",
+    "phone": [
+      "(81) 8332-2975",
+      "(81) 8332-2992"
+    ],
+    "working_hours": [
+      "Lun - Dom: 10:00 a 19:00"
+    ]
+  },
+  {
+    "name": "San Luis",
+    "address": "Blvd. Antonio Rocha Cordero 700 local B-37 Fracc. Lomas del Tecnológico, 78215, San Luis Potosí.",
+    "location": "https://www.google.com/maps/dir//San+Luis+dentalia/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x842a9921c79bce6d:0x7b524dab62d48a05?sa=X&ved=2ahUKEwiNmoqHlM3-AhU0VzABHUleBSoQ9Rd6BAhUEAU",
+    "phone": [
+      "(44) 4817 4435",
+      "(44) 4817 4438"
+    ],
+    "working_hours": [
+      "Lun - Vie: 9:00 a 21:00",
+      "Sábado: 10:00 a 20:00",
+      "Domingo: 11:00 a 20:0"
+    ]
+  },
+  {
+    "name": "Plaza mayor",
+    "address": "Blvd. Juan Alonso de Torres No. 2002 Loc. 2342 Col. Valle del Campestre, 37150 León Guanajuato.",
+    "location": "https://www.google.com/maps?opi=89978449&rlz=1C5CHFA_enPA918PA918&vet=12ahUKEwiZ2dOYlM3-AhWrTTABHXI4CcsQ8UF6BAgDEFY..i&lei=9wlMZNmBH6ubwbkP8vCk2Aw&cs=0&um=1&ie=UTF-8&fb=1&gl=pa&sa=X&geocode=KcFKE9dRvyuEMTjTm6InenxP&daddr=Blvd.+Juan+Alonso+de+Torres+2002-L-24,+Valle+del+Campestre,+37150+Le%C3%B3n,+Gto.,+M%C3%A9xico",
+    "phone": [
+      "(47) 7717 2580",
+      "(47) 7717 5862"
+    ],
+    "working_hours": [
+      "Lun - Vie: 9:00 a 21:00",
+      "Sábado: 10:00 a 20:00",
+      "Domingo: 9:00 a 18:0"
+    ]
+  },
+  {
+    "name": "Altaria",
+    "address": "Blvd. A Zacatecas #849, L-1117 A y L-1117B, Trojes de Alonso, C.P. 20116, Aguascalientes, Aguascalientes.",
+    "location": "https://www.google.com/maps?opi=89978449&rlz=1C5CHFA_enPA918PA918&lqi=ChBBbHRhcmlhIGRlbnRhbGlhSN_C65T4tYCACFoaEAAQARgAGAEiEGFsdGFyaWEgZGVudGFsaWGSAQ1kZW50YWxfY2xpbmljqgFOEAEqFCIQYWx0YXJpYSBkZW50YWxpYSgOMh4QASIa29GTtOcq0QJ-PLzujRFU3Nrg1AFv6ovdiaQyFBACIhBhbHRhcmlhIGRlbnRhbGlh&vet=12ahUKEwjh-NSmlM3-AhUQczABHdneDsgQ8UF6BAgDEFY..i&lei=FApMZOGeNpDmwbkP2b27wAw&cs=0&um=1&ie=UTF-8&fb=1&gl=pa&sa=X&geocode=KVXQ9z_W7ymEMbA3tTjL9x4y&daddr=C.P,+Blvd.+A+Zacatecas+%23849,+L-1117+AyL,+1117B,+Trojes+de+Alonso,+20116+Aguascalientes,+Ags.,+M%C3%A9xico",
+    "phone": [
+      "(44) 9925- 8100",
+      "(44) 9925- 8101"
+    ],
+    "working_hours": [
+      "Lun - Dom: 10:00 a 20:00"
+    ]
+  },
+  {
+    "name": "Plaza solesta",
+    "address": "Atlixcáyotl 4931, L-29 y L-35, Reserva Territorial Atlixcáyotl, Centros Comerciales Desarrollo Atlixcáyotl, CP. 72193, Puebla, Puebla",
+    "location": "https://www.google.com/maps/dir//Plaza+solesta+dentalia/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x85cfb870116ad581:0x63e974e10b70dce3?sa=X&ved=2ahUKEwjWndaxlM3-AhX4goQIHQhJCooQ9Rd6BAhWEAU",
+    "phone": [
+      "(22) 2283-9713",
+      "(22) 228-39810"
+    ],
+    "working_hours": [
+      "Lun - Vie: 9:00 a 21:00",
+      "Sábado: 9:00 a 19:00",
+      "Domingo: 9:00 a 19:0"
+    ]
+  },
+  {
+    "name": "Puerta la Victoria",
+    "address": "Av. Constituyentes Ote. 40, Mercurio, 76040 Santiago de Querétaro, Qro.",
+    "location": "https://www.google.com/maps/dir/9.0066526,-79.5266204/Puerta+la+Victoria+dentalia/@14.1593599,-98.9938312,5z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x85d344cc5008595f:0x187d8b955bc784f3!2m2!1d-100.381846!2d20.5858168",
+    "phone": [
+      "(442) 229-1010",
+      "(442) 229 -1035"
+    ],
+    "working_hours": [
+      "Lun - Vie: 8:00 a 21:00",
+      "Sábado: 9:00 a 21:00",
+      "Domingo: 11:00 a 21:0"
+    ]
+  },
+  {
+    "name": "Urban Center Juriquilla",
+    "address": "Blvd. Jurica La Campana, 899 L-22-23, Residencial Caletto, 76230   Qro. Juriquilla .",
+    "location": "https://www.google.com/maps/dir//Urban+Center+Juriquilla+dentalia/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x85d35760e858ffe1:0x33f89eaeb22eef2d?sa=X&ved=2ahUKEwjMqv_JlM3-AhVXooQIHQ49CcUQ9Rd6BAg-EAQ",
+    "phone": [
+      "(44) 2688-1100",
+      "(44) 2688-1101"
+    ],
+    "working_hours": [
+      "Lun - Vie: 8:00 a 20:00",
+      "Sábado: 9:00 a 20:00",
+      "Domingo: 9:00 a 18:0"
+    ]
+  },
+  {
+    "name": "Satélite",
+    "address": "Circuito Centro Comercial N. 2252, Local SA01, Ciudad Satélite, Municipio Naucalpan de Juaréz, C.P. 53100, Edo. Mex.",
+    "location": "https://www.google.com/maps/dir//Sat%C3%A9lite+dentalia/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x85d2037152dc1db5:0xba2d5405c0f02d94?sa=X&ved=2ahUKEwisjfjTlM3-AhXBQTABHWMHC50Q9Rd6BAh3EAU",
+    "phone": [
+      "(55) 1102 3864",
+      "(55) 1102 3865"
+    ],
+    "working_hours": [
+      "Lun - Dom: 10:00 a 20:00"
+    ]
+  },
+  {
+    "name": "Parque Toreo",
+    "address": "Boulevard Manuel Ávila Camacho No. 5 L-18 y L-19, Fraccionamiento Lomas de Sotelo, C.P. 53390. Naucalpan de Juárez, Edo. Mex.",
+    "location": "https://www.google.com/maps/dir//Parque+Toreo+detanlia/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x85d2037f5d9aae57:0x270bc725d06c8b54?sa=X&ved=2ahUKEwjj0-PclM3-AhVxTDABHXfBDDQQ9Rd6BAhYEAU",
+    "phone": [
+      "(55) 5080 4862",
+      "(55) 5080 4863"
+    ],
+    "working_hours": [
+      "Lun - Dom: 11:00 a 20:00",
+      ""
+    ]
+  },
+  {
+    "name": "Valle Dorado",
+    "address": "Blvd. Manuel Ávila Camacho, 3130 L-119,  Valle Dorado, 54020 Tlalnepantla, Estado de México.",
+    "location": "https://www.google.com/maps/dir//Valle+Dorado+dentalia/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x85d202d461240381:0x351bb05ae6899063?sa=X&ved=2ahUKEwjLzLPrlM3-AhU3jLAFHVAGDqUQ9Rd6BAhQEAQ",
+    "phone": [
+      "(55) 2159-4878",
+      "(55) 5378-4927"
+    ],
+    "working_hours": [
+      "Lun - Vie: 9:00 a 21:00",
+      "Sábado: 11:00 a 20:00",
+      "Domingo: 9:00 a 18:0"
+    ]
+  }
+]
